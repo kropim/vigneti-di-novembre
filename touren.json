@@ -1,0 +1,722 @@
+{
+  "places": {
+    "Freiburg": [
+      47.996,
+      7.852,
+      "Freiburg"
+    ],
+    "Umkirch": [
+      47.998,
+      7.762,
+      "Umkirch"
+    ],
+    "Boetzingen": [
+      48.052,
+      7.738,
+      "Bötzingen"
+    ],
+    "Eichstetten": [
+      48.08,
+      7.735,
+      "Eichstetten"
+    ],
+    "Gundelfingen": [
+      48.045,
+      7.868,
+      "Gundelfingen"
+    ],
+    "Denzlingen": [
+      48.065,
+      7.865,
+      "Denzlingen"
+    ],
+    "Riegel": [
+      48.158,
+      7.745,
+      "Riegel"
+    ],
+    "Endingen": [
+      48.143,
+      7.7,
+      "Endingen"
+    ],
+    "Sasbach": [
+      48.158,
+      7.634,
+      "Sasbach"
+    ],
+    "Burkheim": [
+      48.1,
+      7.588,
+      "Burkheim"
+    ],
+    "Breisach": [
+      48.03,
+      7.581,
+      "Breisach"
+    ],
+    "Hartheim": [
+      47.893,
+      7.617,
+      "Hartheim"
+    ],
+    "BadKrozingen": [
+      47.918,
+      7.7,
+      "Bad Krozingen"
+    ],
+    "Opfingen": [
+      48.003,
+      7.732,
+      "Opfingen"
+    ],
+    "Gottenheim": [
+      48.033,
+      7.714,
+      "Gottenheim"
+    ],
+    "Bahlingen": [
+      48.108,
+      7.71,
+      "Bahlingen"
+    ],
+    "Merdingen": [
+      48.022,
+      7.668,
+      "Merdingen"
+    ],
+    "Munzingen": [
+      47.975,
+      7.712,
+      "Munzingen"
+    ],
+    "Waltershofen": [
+      48.022,
+      7.7,
+      "Waltershofen"
+    ],
+    "Ihringen": [
+      48.036,
+      7.653,
+      "Ihringen"
+    ],
+    "Achkarren": [
+      48.046,
+      7.627,
+      "Achkarren"
+    ],
+    "Bickensohl": [
+      48.063,
+      7.64,
+      "Bickensohl"
+    ],
+    "Oberrotweil": [
+      48.088,
+      7.63,
+      "Oberrotweil"
+    ],
+    "Schelingen": [
+      48.098,
+      7.665,
+      "Schelingen"
+    ],
+    "Oberbergen": [
+      48.082,
+      7.668,
+      "Oberbergen"
+    ],
+    "Hausen": [
+      47.945,
+      7.675,
+      "Hausen a. d. Möhlin"
+    ],
+    "Heitersheim": [
+      47.857,
+      7.658,
+      "Heitersheim"
+    ],
+    "Betberg": [
+      47.836,
+      7.628,
+      "Betberg"
+    ],
+    "Mullheim": [
+      47.808,
+      7.634,
+      "Müllheim"
+    ],
+    "Auggen": [
+      47.79,
+      7.608,
+      "Auggen"
+    ],
+    "Huegelheim": [
+      47.795,
+      7.625,
+      "Hügelheim"
+    ],
+    "Britzingen": [
+      47.833,
+      7.69,
+      "Britzingen"
+    ],
+    "Laufen": [
+      47.828,
+      7.722,
+      "Laufen"
+    ],
+    "StIlgen": [
+      47.86,
+      7.685,
+      "St. Ilgen"
+    ],
+    "Staufen": [
+      47.882,
+      7.735,
+      "Staufen"
+    ],
+    "Pfaffenweiler": [
+      47.925,
+      7.76,
+      "Pfaffenweiler"
+    ],
+    "Ehrenkirchen": [
+      47.918,
+      7.735,
+      "Ehrenkirchen"
+    ],
+    "Ebringen": [
+      47.945,
+      7.8,
+      "Ebringen"
+    ],
+    "Neuenburg": [
+      47.816,
+      7.564,
+      "Neuenburg"
+    ],
+    "Guebwiller": [
+      47.908,
+      7.209,
+      "Guebwiller"
+    ],
+    "Soultz": [
+      47.886,
+      7.229,
+      "Soultz"
+    ],
+    "Soultzmatt": [
+      47.934,
+      7.233,
+      "Soultzmatt"
+    ],
+    "Westhalten": [
+      47.932,
+      7.267,
+      "Westhalten"
+    ],
+    "Rouffach": [
+      47.956,
+      7.299,
+      "Rouffach"
+    ],
+    "Pfaffenheim": [
+      47.966,
+      7.306,
+      "Pfaffenheim"
+    ],
+    "Gueberschwihr": [
+      47.989,
+      7.301,
+      "Gueberschwihr"
+    ],
+    "Husseren": [
+      48.033,
+      7.28,
+      "Husseren-les-Châteaux"
+    ],
+    "Eguisheim": [
+      48.042,
+      7.301,
+      "Eguisheim"
+    ],
+    "Murbach": [
+      47.91,
+      7.173,
+      "Murbach"
+    ],
+    "Cernay": [
+      47.803,
+      7.175,
+      "Cernay"
+    ],
+    "Thann": [
+      47.808,
+      7.108,
+      "Thann"
+    ],
+    "Uffholtz": [
+      47.824,
+      7.193,
+      "Uffholtz"
+    ],
+    "Wuenheim": [
+      47.857,
+      7.219,
+      "Wuenheim"
+    ],
+    "ViuxThann": [
+      47.806,
+      7.14,
+      "Vieux-Thann"
+    ],
+    "Muenstertal": [
+      47.86,
+      7.78,
+      "Münstertal"
+    ],
+    "Stohren": [
+      47.885,
+      7.83,
+      "Stohren"
+    ],
+    "Schauinsland": [
+      47.912,
+      7.898,
+      "Schauinsland"
+    ],
+    "Kreuzweg": [
+      47.815,
+      7.745,
+      "Kreuzweg"
+    ],
+    "Sirnitz": [
+      47.795,
+      7.715,
+      "Sirnitz"
+    ],
+    "Badenweiler": [
+      47.803,
+      7.673,
+      "Badenweiler"
+    ],
+    "Schwaerze": [
+      47.808,
+      7.65,
+      "Schwärze"
+    ],
+    "Buggingen": [
+      47.828,
+      7.612,
+      "Buggingen"
+    ],
+    "Bollschweil": [
+      47.905,
+      7.79,
+      "Bollschweil"
+    ],
+    "StUlrich": [
+      47.905,
+      7.83,
+      "St. Ulrich"
+    ],
+    "Geiersnest": [
+      47.925,
+      7.855,
+      "Geiersnest"
+    ],
+    "Horben": [
+      47.935,
+      7.875,
+      "Horben"
+    ]
+  },
+  "tours": [
+    {
+      "id": 1,
+      "grp": "Tag 1",
+      "name": "Nordrunde über Riegel",
+      "km": 69,
+      "hm": 170,
+      "type": "Flach",
+      "c": "#2F6F8F",
+      "start": "Freiburg",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "Freiburg",
+        "Gundelfingen",
+        "Denzlingen",
+        "Riegel",
+        "Endingen",
+        "Sasbach",
+        "Burkheim",
+        "Breisach",
+        "Hartheim",
+        "BadKrozingen"
+      ],
+      "short": "Riegel, Endingen, Limburg bei Sasbach, Burkheim, Breisacher Münster",
+      "intro": "Ein Tag zum Rollenlassen. Freiburg bleibt hinter dir, vor dir liegt die Rheinebene, und mittendrin der Kaiserstuhl, den du einmal von Norden her umrundest. Zwischen Riegel und Sasbach schiebt sich die Rebenwand immer näher heran, bei Breisach wird der Blick am Rhein weit und still, und die letzten Kilometer rollst du fast von allein nach Bad Krozingen.",
+      "best": "Mai bis Oktober, besonders schön im Herbst, wenn die Reben sich färben.",
+      "einkehr": "Endingen, Burkheim oder Breisach.",
+      "tip": "Die flachste Etappe, ideal als Genussrunde. Nach Norden geht es meist leichter, plane die Richtung nach dem Wind."
+    },
+    {
+      "id": 2,
+      "grp": "Tag 1",
+      "name": "Tuniberg-Finale",
+      "km": 70,
+      "hm": 330,
+      "type": "Wellig",
+      "c": "#1B998B",
+      "start": "Freiburg",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "Freiburg",
+        "Opfingen",
+        "Gottenheim",
+        "Bahlingen",
+        "Endingen",
+        "Burkheim",
+        "Breisach",
+        "Merdingen",
+        "Munzingen",
+        "BadKrozingen"
+      ],
+      "short": "Endingen, Burkheim, Breisach, Tuniberg-Weinberge, Munzingen",
+      "intro": "Der Kaiserstuhl als Vorspiel, der Tuniberg als Finale. Du rollst von Freiburg über Opfingen nach Gottenheim, fährst durch die Weindörfer auf der Ostseite des Kaiserstuhls und tauchst bei Burkheim und Breisach zum Rhein ab. Zum Schluss geht es über die Rebhänge des Tunibergs nach Süden, die letzten Kilometer sind Wein und Weitblick, bis du in Bad Krozingen ankommst.",
+      "best": "Spätsommer und Herbst, wenn in den Weinbergen viel los ist.",
+      "einkehr": "Endingen, Breisach oder Merdingen.",
+      "tip": "Mit 70 km die längste Variante. Wer abkürzen möchte, lässt Endingen aus und fährt direkt über Gottenheim nach Ihringen."
+    },
+    {
+      "id": 3,
+      "grp": "Tag 1",
+      "name": "Kaiserstuhl-Höhen",
+      "km": 66,
+      "hm": 520,
+      "type": "Hügelig",
+      "c": "#6A3FA0",
+      "start": "Freiburg",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "Freiburg",
+        "Opfingen",
+        "Gottenheim",
+        "Ihringen",
+        "Achkarren",
+        "Bickensohl",
+        "Oberrotweil",
+        "Schelingen",
+        "Oberbergen",
+        "Burkheim",
+        "Breisach",
+        "Hausen",
+        "BadKrozingen"
+      ],
+      "short": "Ihringen, Achkarren, Bickensohl, Vogtsburg, Burkheim, Breisach",
+      "intro": "Hier wird der Kaiserstuhl vom Panorama zum Gegner. Ab Ihringen geht es hinauf durch Rebterrassen und enge Lösshohlwege, über Bickensohl und Oberrotweil in die Höhen von Vogtsburg und dann in schneller Abfahrt hinunter nach Burkheim. Die Belohnung ist eine lange, flache Heimfahrt über Breisach und die Rheinebene, auf der du die Höhenmeter noch einmal Revue passieren lässt.",
+      "best": "Frühjahr und Herbst. Im Hochsommer lieber früh starten.",
+      "einkehr": "Straußwirtschaften in Bickensohl, Schelingen und Oberbergen, außerdem Burkheim.",
+      "tip": "Früh starten, im Sommer wird es heiß. Bleib auf asphaltierten Straßen, die Rebwege sind teils Schotter. Die Anstiege am Totenkopf können steil sein."
+    },
+    {
+      "id": 4,
+      "grp": "Tag 2/3",
+      "name": "Auggen-Runde",
+      "km": 62,
+      "hm": 450,
+      "type": "Wellig",
+      "c": "#7A1F3D",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Heitersheim",
+        "Betberg",
+        "Mullheim",
+        "Auggen",
+        "Huegelheim",
+        "Britzingen",
+        "Laufen",
+        "StIlgen",
+        "Staufen",
+        "Pfaffenweiler",
+        "Ehrenkirchen",
+        "BadKrozingen"
+      ],
+      "short": "Heitersheim, Müllheim, Auggen, Britzingen, Laufen, Staufen, Pfaffenweiler",
+      "intro": "Das Markgräflerland von seiner schönsten Seite. Du fährst südwärts bis Auggen, kommst am Schwarzwaldrand über Britzingen und Laufen zurück und hast dabei fast immer Reben neben dir. Dazwischen liegen ein Malteserschloss, ein Städtchen mit Faust-Legende unter einer Burgruine und ein Dutzend Dörfer, in denen vor allem Gutedel wächst.",
+      "best": "Frühling bis Herbst, am schönsten im Spätsommer.",
+      "einkehr": "Britzingen, Staufen oder Pfaffenweiler.",
+      "tip": "Nach Regen und im Herbst auf Schmutz und Lesefahrzeuge achten."
+    },
+    {
+      "id": 5,
+      "grp": "Tag 2/3",
+      "name": "Tuniberg und Pfaffenweiler",
+      "km": 61,
+      "hm": 380,
+      "type": "Wellig",
+      "c": "#D17A22",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Munzingen",
+        "Waltershofen",
+        "Merdingen",
+        "Ihringen",
+        "Gottenheim",
+        "Opfingen",
+        "Ebringen",
+        "Pfaffenweiler",
+        "Ehrenkirchen",
+        "BadKrozingen"
+      ],
+      "short": "Tuniberg, Merdingen, Ihringen, Opfingen, Ebringen, Pfaffenweiler",
+      "intro": "Die Runde für müde Beine nach dem ersten Tag. Du fährst über den Tuniberg bis Ihringen am Kaiserstuhl, drehst dann am Schwarzwaldrand zurück und rollst über Opfingen, Ebringen und Pfaffenweiler nach Bad Krozingen. Weniger Höhenmeter, viele Reben und einige der schönsten Ausblicke auf Rheinebene und Vogesen.",
+      "best": "Frühling und Herbst. Die Aussicht ist bei klarer Luft am besten.",
+      "einkehr": "Merdingen, Ihringen oder Pfaffenweiler.",
+      "tip": "Die flachste Variante am zweiten Tag. Gut, wenn die Beine vom ersten Tag noch müde sind."
+    },
+    {
+      "id": 6,
+      "grp": "Tag 2/3",
+      "name": "Große Weinstraßen-Runde",
+      "km": 68,
+      "hm": 420,
+      "type": "Wellig",
+      "c": "#D1495B",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Ehrenkirchen",
+        "Pfaffenweiler",
+        "Staufen",
+        "Laufen",
+        "Britzingen",
+        "Mullheim",
+        "Auggen",
+        "Neuenburg",
+        "Hartheim",
+        "BadKrozingen"
+      ],
+      "short": "Pfaffenweiler, Staufen, Laufen, Britzingen, Müllheim, Auggen, Neuenburg",
+      "intro": "Die große Weinstraßen-Runde: Vormittags geht es von Pfaffenweiler und Staufen am Schwarzwaldrand entlang, vorbei an Reben und Winzerhöfen, bis nach Auggen. Danach flach hinüber zum Rhein nach Neuenburg und über Hartheim durch die Rheinebene zurück. Erst Weinberge, dann Rheinluft, dazwischen eine Pause mit Blick auf den Fluss.",
+      "best": "Mai bis Oktober, an klaren Tagen mit Blick bis zu den Vogesen.",
+      "einkehr": "Staufen, Britzingen oder Neuenburg.",
+      "tip": "Der Abschnitt von Auggen nach Neuenburg kann bei Gegenwind lang werden. Plane eine Pause in Neuenburg ein."
+    },
+    {
+      "id": 7,
+      "grp": "Elsass (optional)",
+      "name": "Route des Vins ab Guebwiller",
+      "km": 52,
+      "hm": 480,
+      "type": "Wellig",
+      "c": "#2C7A3F",
+      "start": "Guebwiller",
+      "ziel": "Guebwiller",
+      "via": [
+        "Guebwiller",
+        "Soultz",
+        "Westhalten",
+        "Rouffach",
+        "Pfaffenheim",
+        "Gueberschwihr",
+        "Husseren",
+        "Eguisheim",
+        "Rouffach",
+        "Soultzmatt",
+        "Guebwiller"
+      ],
+      "short": "Grand-Cru-Lagen, Westhalten, Rouffach, Eguisheim, Husseren-les-Châteaux",
+      "intro": "Eine Fahrt wie durch eine Postkarte. Von Guebwiller führen die Wege durch Weinberge am Fuß der Vogesen nach Westhalten, Rouffach und Eguisheim. Eguisheim ist kreisförmig gebaut, die Gassen ziehen sich wie Ringe um den Ortskern. Hinter jeder Kurve tauchen Reben, Fachwerk und Kirchtürme auf, und die Vogesen stehen dabei fast immer im Hintergrund.",
+      "best": "September und Oktober zur Weinlese, im Frühjahr zur Rebenblüte.",
+      "einkehr": "Eguisheim, Rouffach oder Soultzmatt (Mittagspause beachten).",
+      "tip": "Ausweis mitnehmen. Bäckereien und Restaurants haben mittags oft geschlossen. An Wochenenden ist es in Eguisheim sehr voll."
+    },
+    {
+      "id": 8,
+      "grp": "Elsass (optional)",
+      "name": "Cernay, Thann und Vallée Noble",
+      "km": 58,
+      "hm": 540,
+      "type": "Hügelig",
+      "c": "#B5651D",
+      "start": "Cernay",
+      "ziel": "Cernay",
+      "via": [
+        "Cernay",
+        "Uffholtz",
+        "Wuenheim",
+        "Soultz",
+        "Guebwiller",
+        "Murbach",
+        "Soultzmatt",
+        "Soultz",
+        "Wuenheim",
+        "Thann",
+        "ViuxThann",
+        "Cernay"
+      ],
+      "short": "Uffholtz, Guebwiller, Abtei Murbach, Vallée Noble, Thann (Rangen)",
+      "intro": "Die Elsass-Tour mit Anstiegen. Von Cernay geht es über Uffholtz und Wuenheim nach Guebwiller, dann zur romanischen Abtei Murbach, weiter durch das ruhige Vallée Noble und zum Schluss nach Thann zur steilen Rebenlage Rangen. Die Anstiege sind kurz, aber du merkst sie in den Beinen, und die Ausblicke zahlen es zurück.",
+      "best": "Frühjahr und Herbst bei klarem Wetter.",
+      "einkehr": "Guebwiller, Soultzmatt oder Thann.",
+      "tip": "Die Anstiege im Vallée Noble und rund um Thann sind die Schlüsselstellen. Wer es kürzer möchte, lässt das Vallée Noble aus."
+    },
+    {
+      "id": 9,
+      "grp": "Tag 2/3",
+      "name": "Tuniberg und südliche Weinberge",
+      "km": 84,
+      "hm": 480,
+      "type": "Wellig",
+      "c": "#4F6BED",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Munzingen",
+        "Waltershofen",
+        "Merdingen",
+        "Hausen",
+        "BadKrozingen",
+        "Heitersheim",
+        "Betberg",
+        "Mullheim",
+        "Auggen",
+        "Huegelheim",
+        "Britzingen",
+        "Laufen",
+        "StIlgen",
+        "BadKrozingen"
+      ],
+      "short": "Tuniberg, Heitersheim, Betberg, Auggen, Hügelheim, Britzingen, Laufen, St. Ilgen",
+      "intro": "Zwei Weinbaugebiete an einem Tag. Vormittags die Dörfer des Tunibergs mit weitem Blick über die Rheinebene, nachmittags die Rebhänge des Markgräflerlands im Süden bis Auggen. Heitersheim bringt Schloss und römische Villa auf die Strecke, Britzingen und Laufen den Schwarzwaldrand. Die Königsrunde für alle, die viel Wein und viel Strecke wollen.",
+      "best": "Spätsommer und Herbst, ein ganzer Tag mit mehreren Pausen.",
+      "einkehr": "Merdingen, Müllheim oder Britzingen.",
+      "tip": "Mit 84 km die längste Tour auf der Seite. Viele Radwege und wenig Verkehr, gut für einen ganzen Tag mit Pausen."
+    },
+    {
+      "id": 10,
+      "grp": "Tag 2/3",
+      "name": "Tuniberg, Schwarzwaldrand und Weinstraße",
+      "km": 73,
+      "hm": 450,
+      "type": "Wellig",
+      "c": "#C77DFF",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Munzingen",
+        "Waltershofen",
+        "Opfingen",
+        "Ebringen",
+        "Pfaffenweiler",
+        "Staufen",
+        "Laufen",
+        "Britzingen",
+        "Heitersheim",
+        "BadKrozingen"
+      ],
+      "short": "Tuniberg, Opfingen, Ebringen, Pfaffenweiler, Staufen, Laufen, Britzingen",
+      "intro": "Tuniberg im Westen, Schwarzwaldrand im Osten, dazwischen Staufen mit seiner Burgruine. Du fährst durch Reben und Dörfer wie Opfingen, Ebringen und Pfaffenweiler, rollst durch die Weinberge nach Laufen und Britzingen und schließt in Heitersheim den Kreis. Die Freiburger Innenstadt bleibt dabei außen vor.",
+      "best": "Frühling und Herbst, wenn auf der Weinstraße weniger los ist.",
+      "einkehr": "Pfaffenweiler, Staufen oder Britzingen.",
+      "tip": "Rebberge und Radwege wechseln sich ab. Auf der Weinstraße ist an schönen Wochenenden viel los."
+    },
+    {
+      "id": 11,
+      "grp": "Berg (optional)",
+      "name": "Kreuzweg, Sirnitz und Schwärze",
+      "km": 73,
+      "hm": 1050,
+      "type": "Hügelig",
+      "c": "#444B6E",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Staufen",
+        "Muenstertal",
+        "Kreuzweg",
+        "Sirnitz",
+        "Badenweiler",
+        "Schwaerze",
+        "Buggingen",
+        "Betberg",
+        "StIlgen",
+        "Heitersheim",
+        "BadKrozingen"
+      ],
+      "short": "Münstertal, Kreuzweg (rund 1070 m), Sirnitz, Badenweiler, Schwärze, Buggingen, Betberg, St. Ilgen",
+      "intro": "Drei Namen, eine Runde: Kreuzweg, Sirnitz und Schwärze. Zuerst klettert du von Münstertal zum Kreuzweg auf rund 1070 Metern, dann rollst du über Sirnitz nach Badenweiler, nimmst die kurze Schwärze mit und tauchst zum Schluss in die Reben bei Buggingen, Betberg und St. Ilgen ein. Erst Schwarzwald, dann Wein, und am Ende das gute Gefühl, einen echten Pass gefahren zu sein.",
+      "best": "Sommer und Frühherbst bei stabilem Wetter.",
+      "einkehr": "Badenweiler, Münstertal oder Heitersheim, Öffnungszeiten vorher prüfen.",
+      "tip": "Die Auffahrt zum Kreuzweg lässt sich auch von Badenweiler aus fahren, dann dreht sich die Reihenfolge der Tour um. Nimm Wasser und eine Windjacke mit."
+    },
+    {
+      "id": 12,
+      "grp": "Berg (optional)",
+      "name": "Schauinsland über Geiersnest",
+      "km": 62,
+      "hm": 1250,
+      "type": "Hügelig",
+      "c": "#9E2A2B",
+      "start": "Bad Krozingen",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "BadKrozingen",
+        "Ehrenkirchen",
+        "Bollschweil",
+        "StUlrich",
+        "Geiersnest",
+        "Horben",
+        "Schauinsland",
+        "Stohren",
+        "Muenstertal",
+        "Staufen",
+        "BadKrozingen"
+      ],
+      "short": "Bollschweil, St. Ulrich, Geiersnest, Horben, Schauinsland (rund 1280 m), Stohren",
+      "intro": "Freiburgs Hausberg von der Rückseite. Über Bollschweil und St. Ulrich geht es hinauf zum Geiersnest, mit dem Schauinsland schon vor Augen. Nach kurzer Abfahrt nach Horben folgt der Anstieg zum Gipfel auf rund 1280 Metern. Zurück rollst du über Stohren ins Münstertal, einen steilen Abstieg lang, danach über Staufen und die Weinberge zum Ausrollen. Ein Tag für alle, die Höhenmeter und Aussicht wollen.",
+      "best": "Sommer und Frühherbst, am besten bei klarer Sicht.",
+      "einkehr": "Am Schauinsland oben, in Münstertal oder Staufen, Öffnungszeiten vorher prüfen.",
+      "tip": "Die Abfahrt über Stohren ist teils sehr steil, fahre mit gutem Bremsgefühl und viel Reserve. Prüfe vorher Wetter und Straßensperrungen, am Wochenende sind viele Motorräder unterwegs."
+    },
+    {
+      "id": 13,
+      "grp": "Tag 1",
+      "name": "Direkt zum Kaiserstuhl",
+      "km": 67,
+      "hm": 190,
+      "type": "Flach",
+      "c": "#00A6C7",
+      "start": "Freiburg",
+      "ziel": "Bad Krozingen",
+      "via": [
+        "Freiburg",
+        "Umkirch",
+        "Gottenheim",
+        "Boetzingen",
+        "Eichstetten",
+        "Bahlingen",
+        "Endingen",
+        "Sasbach",
+        "Burkheim",
+        "Breisach",
+        "Hausen",
+        "BadKrozingen"
+      ],
+      "short": "Umkirch, Gottenheim, Eichstetten, Bahlingen, Endingen, Sasbach, Burkheim, Breisach",
+      "intro": "Der direkte Weg zum Kaiserstuhl: Von Freiburg über Umkirch nach Gottenheim, ohne Umweg über Gundelfingen und Denzlingen. Danach auf ruhigen Straßen durch Bötzingen, Eichstetten und Bahlingen, über Endingen und Sasbach nach Burkheim und Breisach und zum Schluss durch die Rheinebene nach Bad Krozingen. Der Kaiserstuhl liegt fast die ganze Runde zum Greifen nah neben dir.",
+      "best": "Frühling bis Herbst, am schönsten an klaren Herbsttagen.",
+      "einkehr": "Endingen, Burkheim oder Breisach.",
+      "tip": "Anders als Tour 2 fährst du die ganze Nordseite des Kaiserstuhls und lässt den Tuniberg aus, dafür ist die Runde flacher. Plane die Mittagspause in Endingen ein."
+    }
+  ]
+}
