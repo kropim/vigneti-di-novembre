@@ -1,0 +1,54 @@
+name: Rennradrouten berechnen und zur Freigabe vorlegen
+
+on:
+  workflow_dispatch:
+    inputs:
+      tour:
+        description: 'Tour-ID (0 = alle 13 Touren)'
+        required: true
+        default: '0'
+        type: choice
+        options: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13']
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: vigneti-routen
+  cancel-in-progress: false
+
+jobs:
+  routing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: GPX auf echten Strassen berechnen
+        run: python scripts/generate_routes.py --tour '${{ inputs.tour }}'
+      - name: GPX-Dateien als Workflow-Artefakt sichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: vigneti-gpx-zur-pruefung
+          path: |
+            gpx/*.gpx
+            ROUTENPRUEFUNG.md
+          if-no-files-found: error
+      - name: Pull Request mit Routen und Prüfbericht erstellen
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Rennradrouten als GPX zur Prüfung berechnet'
+          branch: auto/gpx-routen
+          delete-branch: true
+          title: 'GPX-Rennradrouten – vor Veröffentlichung prüfen'
+          body: |
+            Automatisch berechnete GPX-Tracks. **Noch nicht als asphaltfrei, verkehrsarm oder höhenmetergenau bestätigt.**
+            Bitte `ROUTENPRUEFUNG.md` lesen und Strecken kontrollieren.
+            Erst nach Prüfung mergen; dann stehen die GPX-Dateien allen Website-Besuchern zur Verfügung.
+          add-paths: |
+            gpx/*.gpx
+            ROUTENPRUEFUNG.md
